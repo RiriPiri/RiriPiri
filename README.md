@@ -14,9 +14,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Riddhi Parasnaik</h1>
 <h3 align="center">Medical Informatics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalaaali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalaaali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RiriPiri&label=Profile%20views&color=0e75b6&style=flat" alt="RiriPiri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedalaaali" alt="mohamedalaaali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RiriPiri&theme=algolia" alt="RiriPiri" /></a> </p>
+
+<!--https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia-->
 
 - 👋 Hi, I’m @RiriPiri(Riddhi Parasnaik).
 - 👀 I’m interested in Image Processing, Deep Learning and Machine Learning pertaining to medical data.
