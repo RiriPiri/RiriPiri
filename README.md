@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @RiriPiri(Riddhi Parasnaik).
 - 👀 I’m interested in Image Processing, Deep Learning and Machine Learning pertaining to medical data.
-- 🌱 I’m currently studying Biomedical Engineering for my Bachelor's degree.
+- 🌱 I’m currently studying Biomedical Engineering for my Master's degree at Columbia University.
 - 💞️ I’m looking forward to collaborating on projects related to predicting and automated diagnosis of medical conditions.
 - 📫 How to reach me:
   1. LinkedIn : https://www.linkedin.com/in/riddhi-parasnaik-4b0a36227
-  2. Mail: riddhiparasnaik@gmail.com
+  2. Mail: rparasnaik@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
